@@ -3,6 +3,10 @@
 This is a Python based real time tracking system that uses YOLOv8 for object detection and PID controllers for stabilizing pan, tilt, and digital zoom. It allows users to track boats in a video feed (either from a webcam or file) and zoom in on the target object smoothly. Users can manually select the boat they want to track if multiple are detected.
 
 
+
+https://github.com/user-attachments/assets/e5670c7a-7b63-4b0e-bcda-6887efa5af0c
+
+
 ### Requirements
 
 - Python 3.8 or higher
