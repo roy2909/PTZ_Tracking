@@ -29,7 +29,7 @@ This is a Python based real time tracking system that uses YOLOv8 for object det
 
 ### Usage
 
-1. usage: python3 ptz_boat_tracker.py [-h] (--video VIDEO | --webcam) 
+1. python3 ptz_boat_tracker.py [-h] (--video VIDEO | --webcam) 
                        [--output OUTPUT] 
                        [--model MODEL] 
                        [--confidence CONFIDENCE]
