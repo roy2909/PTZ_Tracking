@@ -4,7 +4,8 @@ This is a Python based real time tracking system that uses YOLOv8 for object det
 
 
 
-https://github.com/user-attachments/assets/e5670c7a-7b63-4b0e-bcda-6887efa5af0c
+[boats_final.webm](https://github.com/user-attachments/assets/1018a736-dcd6-482b-8645-3aab049e21fc)
+
 
 
 ### Requirements
